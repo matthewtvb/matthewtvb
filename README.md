@@ -1,7 +1,13 @@
-# Hello, I'm Matthew!
+# Hello, I'm Matthew! 👋
+
+
+## 👤 About Me
+
+Cybersecurity engineering student looking to gain hands-on experience through projects, internships, and collaborations while continuing to grow practical security skills.
+
 
 ## 👨‍💻 Cybersecurity Projects
-#A collection of practical lab exercises performed in cybersecurity and systems programming.
+A collection of practical lab exercises performed in cybersecurity and systems programming.
 
 | Lab Topic | Description | Tools Used |
 |-----------|-------------|------------|
