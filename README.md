@@ -1,11 +1,7 @@
 # Hello, I'm Matthew!
-# Cybersecurity & Programming Labs
-
-A collection of practical lab exercises performed in cybersecurity and systems programming.
-
----
 
 ## 👨‍💻 Cybersecurity Projects
+#A collection of practical lab exercises performed in cybersecurity and systems programming.
 
 | Lab Topic | Description | Tools Used |
 |-----------|-------------|------------|
