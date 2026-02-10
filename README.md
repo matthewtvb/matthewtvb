@@ -11,7 +11,8 @@ A collection of practical lab exercises performed in cybersecurity and systems p
 
 | Lab Topic | Description | Tools Used |
 |-----------|-------------|------------|
-| Advanced Port Scanning | Combining Metasploit and Nmap for reconnaissance | Metasploit, Nmap, PostgreSQL |
+| [Advanced Port Scanning](https://github.com/matthewtvb/cybersecurity-labs/blob/9ee170006548ee31656f17df6f4b12f6bb3b83fc/Advanced%20Port%20Scanning.pdf)
+ | Combining Metasploit and Nmap for reconnaissance | Metasploit, Nmap, PostgreSQL |
 | Wireshark & Network Traffic | Capturing and analyzing live and saved packets | Wireshark, Kali Linux |
 | Breaking Ciphers & Hashes | Substitution cipher cracking and MD5 collision attacks | Python, GCC, md5collgen |
 | GRUB Bootloader Security | Configuring bootloader security and user access | Ubuntu, GRUB, gedit |
