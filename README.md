@@ -7,9 +7,9 @@ Cybersecurity engineering student looking to gain hands-on experience through pr
 
 
 ## 👨‍💻 Cybersecurity Projects
-A collection of practical lab exercises performed in cybersecurity and systems programming.
+A collection of practical lab exercises and more performed in cybersecurity and systems programming.
 
-| Lab Topic | Description | Tools Used |
+| Project Topic | Description | Tools Used |
 |-----------|-------------|------------|
 | [Advanced Port Scanning](https://github.com/matthewtvb/cybersecurity-labs/blob/9ee170006548ee31656f17df6f4b12f6bb3b83fc/Advanced%20Port%20Scanning.pdf) | Combining Metasploit and Nmap for reconnaissance | Metasploit, Nmap, PostgreSQL |
 | [Wireshark & Network Traffic](https://github.com/matthewtvb/cybersecurity-labs/blob/9ee170006548ee31656f17df6f4b12f6bb3b83fc/Basics%20of%20Wireshark%20and%20Network%20Traffic.pdf) | Capturing and analyzing live and saved packets | Wireshark, Kali Linux |
