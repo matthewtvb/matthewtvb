@@ -25,5 +25,5 @@ A collection of practical lab exercises and more performed in cybersecurity and 
 | [Thread Synchronization](https://github.com/matthewtvb/cybersecurity-labs/blob/main/Thread%20Synchronization%20Lab%20Mutexes%20and%20Race%20Conditions.pdf) | Using mutexes to prevent race conditions in C | C, pthread, GCC |
 | [USB Partitioning & Memory Analysis](https://github.com/matthewtvb/cybersecurity-labs/blob/main/USB%20Drive%20Partitioning%20%26%20Memory%20Layout%20Analysis.pdf) | Partitioning USB drives and analyzing program memory layout | fdisk, mkfs, GDB, objdump |
 | [Linux Command Line Practice](https://github.com/matthewtvb/cybersecurity-labs/blob/main/Linux%20Command%20Line%20starting%20point.pdf) | Basic Linux file and directory operations | Bash, Terminal |
-
+| [Sony MOVEit Breach Risk Assessment](https://github.com/matthewtvb/cybersecurity-Other-Projects/blob/30f9bab5d6bcaca96088dc5740f6e2988328afc4/Sony%20Risk%20Assessment%20.pdf) & [Risk Register](https://github.com/matthewtvb/cybersecurity-Other-Projects/blob/30f9bab5d6bcaca96088dc5740f6e2988328afc4/Sony%20Risk%20Register.xlsx]| Preformed a risk assessment on SONY's 2023 Breach |Word , Excel|
 ---
