@@ -3,7 +3,7 @@
 
 ## 👤 About Me
 
-Cybersecurity engineering student looking to gain hands-on experience through projects, internships, and collaborations while continuing to grow practical security skills.
+Junior Cybersecurity Engineering student looking to gain hands-on experience through projects, internships, and collaborations while continuing to grow practical security skills.
 
 
 ## 👨‍💻 Cybersecurity Projects
