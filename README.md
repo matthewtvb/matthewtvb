@@ -27,4 +27,5 @@ A collection of practical lab exercises and more performed in cybersecurity and 
 | [Linux Command Line Practice](https://github.com/matthewtvb/cybersecurity-labs/blob/main/Linux%20Command%20Line%20starting%20point.pdf) | Basic Linux file and directory operations | Bash, Terminal |
 | [Sony MOVEit Breach Risk Assessment](https://github.com/matthewtvb/cybersecurity-Other-Projects/blob/30f9bab5d6bcaca96088dc5740f6e2988328afc4/Sony%20Risk%20Assessment%20.pdf) | Preformed a risk assessment on SONY's 2023 Breach | Word |
 | [Risk Register](https://github.com/matthewtvb/cybersecurity-Other-Projects/blob/30f9bab5d6bcaca96088dc5740f6e2988328afc4/Sony%20Risk%20Register.xlsx) | Preformed a risk register on SONY's 2023 Breach | Excel |
+| [Wazuh SIEM & File Integrity Monitoring](https://github.com/matthewtvb/cybersecurity-labs/blob/cbd9a3623c97d288a92a46aafb40f0b811552892/WAZUH%20Home%20Lab.pdf) | Deploying Wazuh SIEM to monitor a Windows agent from an Ubuntu manager with real-time FIM alerts | Wazuh, wazuh agent, Ubuntu|
 ---
