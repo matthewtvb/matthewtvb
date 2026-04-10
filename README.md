@@ -5,7 +5,6 @@
 
 Junior Cybersecurity Engineering student looking to gain hands-on experience through projects, internships, and collaborations while continuing to grow practical security skills.
 
-
 ## 👨‍💻 Cybersecurity Projects
 A collection of practical lab exercises and more performed in cybersecurity and systems programming.
 
@@ -31,5 +30,5 @@ A collection of practical lab exercises and more performed in cybersecurity and 
 | [AWS Cloud Misconfiguration Detection](https://github.com/matthewtvb/cybersecurity-labs/blob/0b2b5075c187d66d9df0be782a1a79019510c441/AWS%20Cloud%20Misconfiguration%20Detection.pdf) | Simulated and detected two real-world AWS misconfigurations, a publicly exposed S3 bucket and an over-privileged IAM user using CloudTrail and GuardDuty | AWS S3, IAM, CloudTrail, GuardDuty |
 | [Splunk SIEM Home Lab](https://github.com/matthewtvb/cybersecurity-labs/blob/0b2b5075c187d66d9df0be782a1a79019510c441/splunk%20lab.pdf)|Installed Splunk Enterprise, loaded the BOTS v3 attack dataset, ran four SPL investigation queries to detect brute force, network scanning, web attacks, and suspicious process execution, then built a two-panel SOC dashboard|Splunk, SPL, BOTS v3, Windows, MITRE ATT&CK|
 |[Change Healthcare NIST CSF 2.0 Gap Analysis](https://github.com/matthewtvb/cybersecurity-Other-Projects/blob/6335ec510298229e4c3a506e6049008c8b3a4f86/Change%20Healthcare%20NIST%20CSF.pdf)|Conducted a gap analysis of the 2024 Change Healthcare ransomware breach across all six NIST CSF 2.0 functions, identified critical control failures, and produced prioritized remediation recommendations|NIST CSF 2.0, Word|
-
+| [Airline Delay Analysis](https://github.com/matthewtvb/cybersecurity-labs/blob/4ce7a58d4c611494e607d03af0764c3f034ea350/airline-data-analysis/airline_delay_analysis.py) | Loaded and cleaned 1,800+ records of U.S. flight delay data from the BTS, aggregated by airline and cause to identify that carrier delays account for 56% of total delay minutes | Python, pandas, Excel |
 ---
