@@ -3,7 +3,7 @@
 
 ## 👤 About Me
 
-Junior Cybersecurity Engineering student looking to gain hands-on experience through projects, internships, and collaborations while continuing to grow practical security skills.
+Cybersecurity Engineering student at George Mason University with hands-on experience in security operations, cloud security, and risk management. I've built SIEM detection labs using Splunk and Wazuh, identified misconfigurations in AWS environments, and conducted risk assessments using NIST CSF 2.0 and NIST RMF.
 
 ## 👨‍💻 Cybersecurity Projects
 A collection of practical lab exercises and more performed in cybersecurity and systems programming.
